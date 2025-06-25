@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @FabLords05
-- 👀 I’m interested in Coding, procratinating, and many more, etc.
-- 🌱 I’m currently learning how to Remember things.
+- 👀 I’m interested in Coding, networks, and cybersecurity.
+- 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on anyone who can help me.
 - 📫 How to reach me: email: tugonon.fabiojoseph@gmail.com
-- 😄 Pronouns: oh/shit
-- ⚡ Fun fact: I'm not funny
+- 😄 Pronouns: he/he/he
+- ⚡ Fun fact: Hungry-learning person
 
 <!---
 FabLords05/FabLords05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
