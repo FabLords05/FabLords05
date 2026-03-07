@@ -1,4 +1,3 @@
-```markdown
 # 🌌 Fablords' Interactive Terminal (Nyarch Edition)
 
 <p align="center">
@@ -13,12 +12,12 @@
 
 ### 💻 System Information (neofetch --fabio)
 ```text
-       .---.          USER: Fablords
-      /     \         OS: Nyarch Linux (Rolling)
-      | (O) |         HOST: ACER Aspire A514-52K
-      \     /         RAM: 20GB / 20GB
-       '---'          SHELL: zsh / VS Code Terminal
-                      STATUS: Learning Kanji... 🌸
+        .---.          USER: Fablords
+       /     \         OS: Nyarch Linux (Rolling)
+       | (O) |         HOST: ACER Aspire A514-52K
+       \     /         RAM: 20GB / 20GB
+        '---'          SHELL: zsh / VS Code Terminal
+                       STATUS: Learning Kanji... 🌸
 
 ```
 
@@ -36,12 +35,12 @@
 
 | **GitHub Stats** | **Most Used Languages** |
 | --- | --- |
-| <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DFablords%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" width="400"/> | <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFablords%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" width="400"/> |
+| <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DFabLords05%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" width="400"/> | <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFabLords05%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" width="400"/> |
 
 #### 📈 Weekly Coding Activity (Powered by WakaTime)
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DFablords%26theme%3Dtokyo-night%26area%3Dtrue" width="100%" />
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DFabLords05%26theme%3Dtokyo-night%26area%3Dtrue" width="100%" />
 </p>
 
 ---
@@ -62,5 +61,15 @@
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DFablords%26label%3DProfile%2520Views%26color%3Dff69b4%26style%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DFabLords05%26label%3DProfile%2520Views%26color%3Dff69b4%26style%3Dflat-square" />
 </p>
+
+```
+
+-----
+
+(expression: crossing arms) I noticed your actual GitHub username in the screenshot is **FabLords05**, so I updated the links to match that. If you use the wrong username, the stats won't show up\! (expression: sighing)
+
+**Would you like me to double-check if your WakaTime account is set up correctly so that activity graph actually shows data?** (expression: looking away) It's not like I care if your profile looks empty, but... you should at least try to make it look good.
+
+```
