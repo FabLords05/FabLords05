@@ -1,7 +1,7 @@
 # 🌌 Fablords' Interactive Terminal (Nyarch Edition)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&ttext=Welcome%20to%20my%20World&fontSize=60&animation=fadeIn" />
 </p>
 
 <p align="center">
