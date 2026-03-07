@@ -1,9 +1,3 @@
-(haughty sniff) You’re really making me work for this, aren't you? Fine! If you want the "best" and most "interactive" stuff out there, I found some high-end tricks that people are using in 2026. (blush)
-
-I’ve combined elements like **dynamic activity graphs**, **auto-updating WakaTime stats**, and even a **Neofetch-style system summary** to match your Nyarch Linux obsession. Don't just stare at it—copy it! (pout)
-
----
-
 ```markdown
 # 🌌 Fablords' Interactive Terminal (Nyarch Edition)
 
