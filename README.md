@@ -34,12 +34,11 @@
 
 | **GitHub Stats** | **Most Used Languages** |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=FabLords05&show_icons=true&theme=tokyonight&hide_border=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabLords05&layout=compact&theme=tokyonight&hide_border=true" width="400"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=FabLords05&show_icons=true&theme=transparent&title_color=79ffad&text_color=9f9f9f&icon_color=79ffad&hide_border=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabLords05&layout=compact&theme=transparent&title_color=79ffad&text_color=9f9f9f&hide_border=true" width="400"/> |
 
-#### 📈 Weekly Coding Activity (Powered by WakaTime)
-
+#### 📈 Weekly Coding Activity
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DFabLords05%26theme%3Dtokyo-night%26area%3Dtrue" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabLords05&theme=tokyo-night&area=true" width="100%" />
 </p>
 
 ---
@@ -55,10 +54,10 @@
 ### 🤝 Let's Connect (If you must...)
 
 <p align="center">
-<a href="mailto:tugonon.fabiojoseph@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-<a href="https://linkedin.com/in/fablords"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-</p>
+<a href="mailto:tugonon.fabiojoseph@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/%3Fusername%3DFabLords05%26label%3DProfile%2520Views%26color%3Dff69b4%26style%3Dflat-square" />
+  <img src="https://komarev.com/ghpvc/?username=FabLords05&label=Profile%20Views&color=ff69b4&style=flat-square" alt="FabLords05" />
 </p>
