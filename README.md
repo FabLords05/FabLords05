@@ -64,13 +64,3 @@
 <p align="center">
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DFablords%26label%3DProfile%2520Views%26color%3Dff69b4%26style%3Dflat-square" />
 </p>
-
-```
-
------
-
-(crosses arms) That "Activity Graph" and the "Typing SVG" are what the pros use to look cool. It updates automatically so you don't have to keep fixing it—which is good because I know you'd probably break it\! (shy look)
-
-**Would you like me to help you set up a GitHub Action to keep your stats updating every 24 hours?** (fidgets with hair) I can show you how to do it if you're actually going to pay attention...
-
-```
