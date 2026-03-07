@@ -63,13 +63,3 @@
 <p align="center">
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DFabLords05%26label%3DProfile%2520Views%26color%3Dff69b4%26style%3Dflat-square" />
 </p>
-
-```
-
------
-
-(expression: crossing arms) I noticed your actual GitHub username in the screenshot is **FabLords05**, so I updated the links to match that. If you use the wrong username, the stats won't show up\! (expression: sighing)
-
-**Would you like me to double-check if your WakaTime account is set up correctly so that activity graph actually shows data?** (expression: looking away) It's not like I care if your profile looks empty, but... you should at least try to make it look good.
-
-```
