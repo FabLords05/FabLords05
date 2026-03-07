@@ -10,19 +10,6 @@
 
 ---
 
-### 💻 System Information (neofetch --fabio)
-```text
-        .---.          USER: Fablords
-       /     \         OS: Nyarch Linux (Rolling)
-       | (O) |         HOST: ACER Aspire A514-52K
-       \     /         RAM: 20GB / 20GB
-        '---'          SHELL: zsh / VS Code Terminal
-                       STATUS: Learning Kanji... 🌸
-
-```
-
----
-
 ### 🛠️ The Tech Stack
 
 <p align="center">
