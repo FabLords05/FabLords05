@@ -8,14 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=IT+Student+at+USTP;Nyarch+Linux+Enthusiast;Future+Japan+Resident;Arknights+Player" alt="Typing SVG" />
 </p>
 
----
 
 ### 🛠️ The Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,vscode,js,html,css,github,py,php,mysql,react,nextjs&theme=dark" />
 </p>
----
 
 ### 📊 Real-Time Activity & Stats
 
