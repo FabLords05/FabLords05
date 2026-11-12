@@ -21,11 +21,6 @@
 | --- | --- |
 | <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabLords05&show_icons=true&bg_color=00000000&title_color=79ffad&text_color=9f9f9f&icon_color=79ffad&hide_border=true" width="400"/> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FabLords05&layout=compact&bg_color=00000000&title_color=79ffad&text_color=9f9f9f&hide_border=true" width="400"/> |
 
-#### Weekly Coding Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabLords05&theme=tokyo-night&area=true" width="100%" />
-</p>
-
 
 ### 🤝 Let's Connect (If you must...)
 
